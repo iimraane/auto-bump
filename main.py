@@ -1,13 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Discord Bump Bot — version Deluxe ⭐ (session persistante + interstitiel)
-Auteur : Toi 😉 / Crédit : "Bot made with <3 by El Titano" (discord: @el_titano)
-
-Améliorations clés :
-- ✅ Session persistante par défaut via profil Chrome dédié (chrome_profile) → plus fiable que cookies.pkl
-- ♻️ Cookies.pkl conservés en fallback si besoin
-- 🔘 Gestion automatique de l'interstitiel "Application Discord détectée" → clique "Continuer dans le navigateur"
-- 🧹 Logs ChromeDriver masqués ; UX menu propre ; messages pédagogiques
+Made witch <3 by El Titano 
 
 Dépendance : selenium>=4.20.0
 Lancement : python discord_bump_bot.py
